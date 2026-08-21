@@ -1,0 +1,193 @@
+timestamp,level,symbol,stage,message
+2026-08-20 15:57:19,ERROR,TATAMOTORS,SCAN,"No data returned (symbol may be invalid, delisted, or a network issue occurred)."
+2026-08-20 15:57:22,INFO,SYSTEM,SCAN,"Scan complete: 50 stocks checked, 11 matched, 1 error(s)."
+2026-08-20 15:57:22,SUCCESS,RELIANCE,SIGNAL,"Signal generated (fibonacci, long) — entry 1272.82, stop 1251.95, T1 1283.26, T2 1293.70"
+2026-08-20 15:57:22,SUCCESS,INFY,SIGNAL,"Signal generated (fibonacci, short) — entry 1148.90, stop 1253.06, T1 1096.81, T2 1044.73"
+2026-08-20 15:57:22,SUCCESS,AXISBANK,SIGNAL,"Signal generated (fibonacci, short) — entry 1325.46, stop 1391.32, T1 1292.53, T2 1259.60"
+2026-08-20 15:57:22,SUCCESS,ONGC,SIGNAL,"Signal generated (fibonacci, long) — entry 274.75, stop 274.48, T1 274.89, T2 275.02"
+2026-08-20 15:57:22,SUCCESS,JSWSTEEL,SIGNAL,"Signal generated (fibonacci, long) — entry 1238.69, stop 1237.45, T1 1239.30, T2 1239.92"
+2026-08-20 15:57:22,SUCCESS,BRITANNIA,SIGNAL,"Signal generated (fibonacci, short) — entry 5217.25, stop 5386.27, T1 5132.74, T2 5048.23"
+2026-08-20 15:57:22,SUCCESS,DIVISLAB,SIGNAL,"Signal generated (fibonacci, short) — entry 6939.38, stop 6946.32, T1 6935.91, T2 6932.44"
+2026-08-20 15:57:22,SUCCESS,TATACONSUM,SIGNAL,"Signal generated (fibonacci, long) — entry 1065.10, stop 1064.03, T1 1065.63, T2 1066.17"
+2026-08-20 15:57:22,SUCCESS,HDFCLIFE,SIGNAL,"Signal generated (fibonacci, long) — entry 587.20, stop 575.77, T1 592.91, T2 598.63"
+2026-08-20 15:57:22,SUCCESS,UPL,SIGNAL,"Signal generated (fibonacci, long) — entry 592.34, stop 557.19, T1 609.92, T2 627.49"
+2026-08-20 16:02:01,ERROR,TATAMOTORS,SCAN,"No data returned (symbol may be invalid, delisted, or a network issue occurred)."
+2026-08-20 16:02:04,INFO,SYSTEM,SCAN,"Scan complete: 50 stocks checked, 12 matched, 1 error(s)."
+2026-08-20 16:02:04,SUCCESS,BAJAJFINSV,SIGNAL,"Signal generated (fibonacci, long) — entry 1999.96, stop 1986.01, T1 2006.94, T2 2013.91"
+2026-08-20 16:02:04,SUCCESS,DIVISLAB,SIGNAL,"Signal generated (fibonacci, short) — entry 8618.18, stop 8682.17, T1 8586.18, T2 8554.19"
+2026-08-20 16:02:04,SUCCESS,APOLLOHOSP,SIGNAL,"Signal generated (fibonacci, long) — entry 8863.19, stop 8813.18, T1 8888.20, T2 8913.21"
+2026-08-20 16:02:04,SUCCESS,HDFCLIFE,SIGNAL,"Signal generated (fibonacci, short) — entry 541.82, stop 545.24, T1 540.11, T2 538.40"
+2026-08-20 16:02:04,SUCCESS,SHRIRAMFIN,SIGNAL,"Signal generated (fibonacci, short) — entry 1078.90, stop 1079.98, T1 1078.36, T2 1077.82"
+2026-08-20 16:03:53,WARNING,HDFCLIFE,ORDER,Skipped: Market closed for the day (closed 15:30 IST).
+2026-08-20 16:07:23,ERROR,TATAMOTORS,SCAN,"No data returned (symbol may be invalid, delisted, or a network issue occurred)."
+2026-08-20 16:07:25,INFO,SYSTEM,SCAN,"Scan complete: 50 stocks checked, 11 matched, 1 error(s)."
+2026-08-20 16:07:25,SUCCESS,RELIANCE,SIGNAL,"Signal generated (fibonacci, long) — entry 1272.82, stop 1251.95, T1 1283.26, T2 1293.70"
+2026-08-20 16:07:25,SUCCESS,INFY,SIGNAL,"Signal generated (fibonacci, short) — entry 1148.90, stop 1253.06, T1 1096.81, T2 1044.73"
+2026-08-20 16:07:25,SUCCESS,AXISBANK,SIGNAL,"Signal generated (fibonacci, short) — entry 1325.46, stop 1391.32, T1 1292.53, T2 1259.60"
+2026-08-20 16:07:25,SUCCESS,ONGC,SIGNAL,"Signal generated (fibonacci, long) — entry 274.75, stop 274.48, T1 274.89, T2 275.02"
+2026-08-20 16:07:25,SUCCESS,JSWSTEEL,SIGNAL,"Signal generated (fibonacci, long) — entry 1238.69, stop 1237.45, T1 1239.30, T2 1239.92"
+2026-08-20 16:07:25,SUCCESS,BRITANNIA,SIGNAL,"Signal generated (fibonacci, short) — entry 5217.25, stop 5386.27, T1 5132.74, T2 5048.23"
+2026-08-20 16:07:25,SUCCESS,DIVISLAB,SIGNAL,"Signal generated (fibonacci, short) — entry 6939.38, stop 6946.32, T1 6935.91, T2 6932.44"
+2026-08-20 16:07:25,SUCCESS,TATACONSUM,SIGNAL,"Signal generated (fibonacci, long) — entry 1065.10, stop 1064.03, T1 1065.63, T2 1066.17"
+2026-08-20 16:07:25,SUCCESS,HDFCLIFE,SIGNAL,"Signal generated (fibonacci, long) — entry 587.20, stop 575.77, T1 592.91, T2 598.63"
+2026-08-20 16:07:25,SUCCESS,UPL,SIGNAL,"Signal generated (fibonacci, long) — entry 592.34, stop 557.19, T1 609.92, T2 627.49"
+2026-08-20 16:12:01,INFO,SYSTEM,SYSTEM,Restored 0 open position(s) and 0 closed trade(s) from saved state.
+2026-08-20 18:05:16,INFO,SYSTEM,SYSTEM,Restored 0 open position(s) and 0 closed trade(s) from saved state.
+2026-08-20 18:06:03,INFO,SYSTEM,SCAN,"Scan complete: 1 stocks checked, 1 matched, 0 error(s)."
+2026-08-20 18:06:03,SUCCESS,HDFCLIFE,SIGNAL,"Signal generated (fibonacci, long) — entry 587.20, stop 575.77, T1 592.91, T2 598.63"
+2026-08-20 18:07:51,INFO,SYSTEM,SCAN,"Scan complete: 1 stocks checked, 1 matched, 0 error(s)."
+2026-08-20 18:07:51,SUCCESS,HDFCLIFE,SIGNAL,"Signal generated (fibonacci, short) — entry 541.82, stop 545.24, T1 540.11, T2 538.40"
+2026-08-21 09:45:24,INFO,SYSTEM,SYSTEM,Restored 0 open position(s) and 0 closed trade(s) from saved state.
+2026-08-21 09:46:16,ERROR,TATAMOTORS,SCAN,No data returned.
+2026-08-21 09:46:17,INFO,SYSTEM,SCAN,"Scan complete: 50 stocks checked, 11 matched, 1 error(s)."
+2026-08-21 09:46:17,SUCCESS,RELIANCE,SIGNAL,"Signal generated (fibonacci, long) — entry 1272.82, stop 1251.95."
+2026-08-21 09:46:17,SUCCESS,INFY,SIGNAL,"Signal generated (fibonacci, short) — entry 1148.90, stop 1253.06."
+2026-08-21 09:46:17,SUCCESS,AXISBANK,SIGNAL,"Signal generated (fibonacci, short) — entry 1325.46, stop 1391.32."
+2026-08-21 09:46:17,SUCCESS,ONGC,SIGNAL,"Signal generated (fibonacci, long) — entry 274.75, stop 274.48."
+2026-08-21 09:46:17,SUCCESS,JSWSTEEL,SIGNAL,"Signal generated (fibonacci, long) — entry 1238.69, stop 1237.45."
+2026-08-21 09:46:17,SUCCESS,BRITANNIA,SIGNAL,"Signal generated (fibonacci, short) — entry 5217.25, stop 5386.27."
+2026-08-21 09:46:17,SUCCESS,DIVISLAB,SIGNAL,"Signal generated (fibonacci, short) — entry 6939.38, stop 6946.32."
+2026-08-21 09:46:17,SUCCESS,TATACONSUM,SIGNAL,"Signal generated (fibonacci, long) — entry 1065.10, stop 1064.03."
+2026-08-21 09:46:17,SUCCESS,HDFCLIFE,SIGNAL,"Signal generated (fibonacci, long) — entry 587.20, stop 575.77."
+2026-08-21 09:46:17,SUCCESS,UPL,SIGNAL,"Signal generated (fibonacci, long) — entry 592.34, stop 557.19."
+2026-08-21 09:48:15,ERROR,RELIANCE,SCAN,No data returned.
+2026-08-21 09:48:17,ERROR,TCS,SCAN,No data returned.
+2026-08-21 09:48:18,ERROR,HDFCBANK,SCAN,No data returned.
+2026-08-21 09:48:18,ERROR,ICICIBANK,SCAN,No data returned.
+2026-08-21 09:48:19,ERROR,INFY,SCAN,No data returned.
+2026-08-21 09:48:20,ERROR,HINDUNILVR,SCAN,No data returned.
+2026-08-21 09:48:20,ERROR,ITC,SCAN,No data returned.
+2026-08-21 09:48:21,ERROR,SBIN,SCAN,No data returned.
+2026-08-21 09:48:23,ERROR,BHARTIARTL,SCAN,No data returned.
+2026-08-21 09:48:24,ERROR,KOTAKBANK,SCAN,No data returned.
+2026-08-21 09:48:25,ERROR,LT,SCAN,No data returned.
+2026-08-21 09:48:26,ERROR,AXISBANK,SCAN,No data returned.
+2026-08-21 09:48:27,ERROR,BAJFINANCE,SCAN,No data returned.
+2026-08-21 09:48:28,ERROR,ASIANPAINT,SCAN,No data returned.
+2026-08-21 09:48:29,ERROR,MARUTI,SCAN,No data returned.
+2026-08-21 09:48:30,ERROR,SUNPHARMA,SCAN,No data returned.
+2026-08-21 09:48:31,ERROR,TITAN,SCAN,No data returned.
+2026-08-21 09:48:32,ERROR,ULTRACEMCO,SCAN,No data returned.
+2026-08-21 09:48:33,ERROR,WIPRO,SCAN,No data returned.
+2026-08-21 09:48:35,ERROR,RELIANCE,SCAN,No data returned.
+2026-08-21 09:48:36,ERROR,TCS,SCAN,No data returned.
+2026-08-21 09:48:37,ERROR,HDFCBANK,SCAN,No data returned.
+2026-08-21 09:48:37,ERROR,ICICIBANK,SCAN,No data returned.
+2026-08-21 09:48:38,ERROR,INFY,SCAN,No data returned.
+2026-08-21 09:48:40,ERROR,HINDUNILVR,SCAN,No data returned.
+2026-08-21 09:48:40,ERROR,ITC,SCAN,No data returned.
+2026-08-21 09:48:41,ERROR,SBIN,SCAN,No data returned.
+2026-08-21 09:48:42,ERROR,BHARTIARTL,SCAN,No data returned.
+2026-08-21 09:48:42,ERROR,KOTAKBANK,SCAN,No data returned.
+2026-08-21 09:48:43,ERROR,LT,SCAN,No data returned.
+2026-08-21 09:48:44,ERROR,AXISBANK,SCAN,No data returned.
+2026-08-21 09:48:45,ERROR,BAJFINANCE,SCAN,No data returned.
+2026-08-21 09:48:46,ERROR,ASIANPAINT,SCAN,No data returned.
+2026-08-21 09:48:47,ERROR,MARUTI,SCAN,No data returned.
+2026-08-21 09:48:48,ERROR,SUNPHARMA,SCAN,No data returned.
+2026-08-21 09:48:48,ERROR,TITAN,SCAN,No data returned.
+2026-08-21 09:48:49,ERROR,ULTRACEMCO,SCAN,No data returned.
+2026-08-21 09:48:50,ERROR,WIPRO,SCAN,No data returned.
+2026-08-21 09:48:51,ERROR,NESTLEIND,SCAN,No data returned.
+2026-08-21 09:48:52,ERROR,ONGC,SCAN,No data returned.
+2026-08-21 09:48:52,ERROR,NTPC,SCAN,No data returned.
+2026-08-21 09:48:53,ERROR,POWERGRID,SCAN,No data returned.
+2026-08-21 09:48:54,ERROR,M&M,SCAN,No data returned.
+2026-08-21 09:48:55,ERROR,TATASTEEL,SCAN,No data returned.
+2026-08-21 09:48:55,ERROR,ADANIENT,SCAN,No data returned.
+2026-08-21 09:48:56,ERROR,ADANIPORTS,SCAN,No data returned.
+2026-08-21 09:48:57,ERROR,COALINDIA,SCAN,No data returned.
+2026-08-21 09:48:58,ERROR,BAJAJFINSV,SCAN,No data returned.
+2026-08-21 09:49:00,ERROR,HCLTECH,SCAN,No data returned.
+2026-08-21 09:49:01,ERROR,TECHM,SCAN,No data returned.
+2026-08-21 09:49:01,ERROR,GRASIM,SCAN,No data returned.
+2026-08-21 09:49:02,ERROR,JSWSTEEL,SCAN,No data returned.
+2026-08-21 09:49:03,ERROR,DRREDDY,SCAN,No data returned.
+2026-08-21 09:49:04,ERROR,CIPLA,SCAN,No data returned.
+2026-08-21 09:49:05,ERROR,BRITANNIA,SCAN,No data returned.
+2026-08-21 09:49:06,ERROR,EICHERMOT,SCAN,No data returned.
+2026-08-21 09:49:06,ERROR,HEROMOTOCO,SCAN,No data returned.
+2026-08-21 09:49:07,ERROR,DIVISLAB,SCAN,No data returned.
+2026-08-21 09:49:08,ERROR,APOLLOHOSP,SCAN,No data returned.
+2026-08-21 09:49:09,ERROR,TATACONSUM,SCAN,No data returned.
+2026-08-21 09:49:10,ERROR,BPCL,SCAN,No data returned.
+2026-08-21 09:49:10,ERROR,HINDALCO,SCAN,No data returned.
+2026-08-21 09:49:11,ERROR,SBILIFE,SCAN,No data returned.
+2026-08-21 09:49:12,ERROR,HDFCLIFE,SCAN,No data returned.
+2026-08-21 09:49:13,ERROR,INDUSINDBK,SCAN,No data returned.
+2026-08-21 09:49:13,ERROR,BAJAJ-AUTO,SCAN,No data returned.
+2026-08-21 09:49:15,ERROR,TATAMOTORS,SCAN,No data returned.
+2026-08-21 09:49:15,ERROR,SHRIRAMFIN,SCAN,No data returned.
+2026-08-21 09:49:16,ERROR,UPL,SCAN,No data returned.
+2026-08-21 09:49:16,INFO,SYSTEM,SCAN,"Scan complete: 50 stocks checked, 0 matched, 50 error(s)."
+2026-08-21 09:49:43,ERROR,RELIANCE,SCAN,No data returned.
+2026-08-21 09:49:44,ERROR,TCS,SCAN,No data returned.
+2026-08-21 09:49:45,ERROR,HDFCBANK,SCAN,No data returned.
+2026-08-21 09:49:46,ERROR,ICICIBANK,SCAN,No data returned.
+2026-08-21 09:49:46,ERROR,INFY,SCAN,No data returned.
+2026-08-21 09:49:48,ERROR,HINDUNILVR,SCAN,No data returned.
+2026-08-21 09:49:48,ERROR,ITC,SCAN,No data returned.
+2026-08-21 09:49:49,ERROR,SBIN,SCAN,No data returned.
+2026-08-21 09:49:50,ERROR,BHARTIARTL,SCAN,No data returned.
+2026-08-21 09:49:51,ERROR,KOTAKBANK,SCAN,No data returned.
+2026-08-21 09:49:52,ERROR,LT,SCAN,No data returned.
+2026-08-21 09:49:52,ERROR,AXISBANK,SCAN,No data returned.
+2026-08-21 09:49:53,ERROR,BAJFINANCE,SCAN,No data returned.
+2026-08-21 09:49:54,ERROR,ASIANPAINT,SCAN,No data returned.
+2026-08-21 09:49:55,ERROR,MARUTI,SCAN,No data returned.
+2026-08-21 09:49:56,ERROR,SUNPHARMA,SCAN,No data returned.
+2026-08-21 09:49:57,ERROR,TITAN,SCAN,No data returned.
+2026-08-21 09:49:57,ERROR,ULTRACEMCO,SCAN,No data returned.
+2026-08-21 09:49:58,ERROR,WIPRO,SCAN,No data returned.
+2026-08-21 09:49:58,ERROR,NESTLEIND,SCAN,No data returned.
+2026-08-21 09:49:59,ERROR,ONGC,SCAN,No data returned.
+2026-08-21 09:50:00,ERROR,NTPC,SCAN,No data returned.
+2026-08-21 09:50:01,ERROR,POWERGRID,SCAN,No data returned.
+2026-08-21 09:50:02,ERROR,M&M,SCAN,No data returned.
+2026-08-21 09:50:02,ERROR,TATASTEEL,SCAN,No data returned.
+2026-08-21 09:50:03,ERROR,ADANIENT,SCAN,No data returned.
+2026-08-21 09:50:04,ERROR,ADANIPORTS,SCAN,No data returned.
+2026-08-21 09:50:05,ERROR,COALINDIA,SCAN,No data returned.
+2026-08-21 09:50:06,ERROR,BAJAJFINSV,SCAN,No data returned.
+2026-08-21 09:50:07,ERROR,HCLTECH,SCAN,No data returned.
+2026-08-21 09:50:08,ERROR,TECHM,SCAN,No data returned.
+2026-08-21 09:50:09,ERROR,GRASIM,SCAN,No data returned.
+2026-08-21 09:50:10,ERROR,JSWSTEEL,SCAN,No data returned.
+2026-08-21 09:50:12,ERROR,DRREDDY,SCAN,No data returned.
+2026-08-21 09:50:12,ERROR,CIPLA,SCAN,No data returned.
+2026-08-21 09:50:13,ERROR,BRITANNIA,SCAN,No data returned.
+2026-08-21 09:50:14,ERROR,EICHERMOT,SCAN,No data returned.
+2026-08-21 09:50:15,ERROR,HEROMOTOCO,SCAN,No data returned.
+2026-08-21 09:50:16,ERROR,DIVISLAB,SCAN,No data returned.
+2026-08-21 09:50:17,ERROR,APOLLOHOSP,SCAN,No data returned.
+2026-08-21 09:50:18,ERROR,TATACONSUM,SCAN,No data returned.
+2026-08-21 09:50:19,ERROR,BPCL,SCAN,No data returned.
+2026-08-21 09:50:20,ERROR,HINDALCO,SCAN,No data returned.
+2026-08-21 09:50:21,ERROR,SBILIFE,SCAN,No data returned.
+2026-08-21 09:50:22,ERROR,HDFCLIFE,SCAN,No data returned.
+2026-08-21 09:50:23,ERROR,INDUSINDBK,SCAN,No data returned.
+2026-08-21 09:50:24,ERROR,BAJAJ-AUTO,SCAN,No data returned.
+2026-08-21 09:50:25,ERROR,TATAMOTORS,SCAN,No data returned.
+2026-08-21 09:50:26,ERROR,SHRIRAMFIN,SCAN,No data returned.
+2026-08-21 09:50:27,ERROR,UPL,SCAN,No data returned.
+2026-08-21 09:50:27,INFO,SYSTEM,SCAN,"Scan complete: 50 stocks checked, 0 matched, 50 error(s)."
+2026-08-21 09:51:42,ERROR,TATAMOTORS,SCAN,No data returned.
+2026-08-21 09:51:43,INFO,SYSTEM,SCAN,"Scan complete: 50 stocks checked, 11 matched, 1 error(s)."
+2026-08-21 09:51:43,SUCCESS,BAJAJFINSV,SIGNAL,"Signal generated (fibonacci, long) — entry 1999.96, stop 1986.01."
+2026-08-21 09:51:43,SUCCESS,DIVISLAB,SIGNAL,"Signal generated (fibonacci, short) — entry 8618.18, stop 8682.17."
+2026-08-21 09:51:43,SUCCESS,APOLLOHOSP,SIGNAL,"Signal generated (fibonacci, long) — entry 8863.19, stop 8813.18."
+2026-08-21 09:51:43,SUCCESS,HDFCLIFE,SIGNAL,"Signal generated (fibonacci, short) — entry 541.82, stop 545.24."
+2026-08-21 09:51:43,SUCCESS,SHRIRAMFIN,SIGNAL,"Signal generated (fibonacci, short) — entry 1078.90, stop 1079.98."
+2026-08-21 16:01:52,INFO,SYSTEM,SYSTEM,Restored 0 open position(s) and 0 closed trade(s) from saved state.
+2026-08-21 16:02:55,ERROR,TATAMOTORS,SCAN,No data returned.
+2026-08-21 16:02:56,INFO,SYSTEM,SCAN,"Scan complete: 50 stocks checked, 12 matched, 1 error(s)."
+2026-08-21 16:02:56,SUCCESS,RELIANCE,SIGNAL,"Signal generated (fibonacci, long) — entry 1272.82, stop 1251.95."
+2026-08-21 16:02:56,SUCCESS,INFY,SIGNAL,"Signal generated (fibonacci, short) — entry 1148.90, stop 1253.06."
+2026-08-21 16:02:56,SUCCESS,AXISBANK,SIGNAL,"Signal generated (fibonacci, short) — entry 1325.46, stop 1391.32."
+2026-08-21 16:02:56,SUCCESS,ONGC,SIGNAL,"Signal generated (fibonacci, long) — entry 274.75, stop 274.48."
+2026-08-21 16:02:56,SUCCESS,JSWSTEEL,SIGNAL,"Signal generated (fibonacci, long) — entry 1238.69, stop 1237.45."
+2026-08-21 16:02:56,SUCCESS,BRITANNIA,SIGNAL,"Signal generated (fibonacci, short) — entry 5217.25, stop 5386.27."
+2026-08-21 16:02:56,SUCCESS,DIVISLAB,SIGNAL,"Signal generated (fibonacci, short) — entry 6939.38, stop 6946.32."
+2026-08-21 16:02:56,SUCCESS,TATACONSUM,SIGNAL,"Signal generated (fibonacci, long) — entry 1065.10, stop 1064.03."
+2026-08-21 16:02:56,SUCCESS,HDFCLIFE,SIGNAL,"Signal generated (fibonacci, long) — entry 587.20, stop 575.77."
+2026-08-21 16:02:56,SUCCESS,UPL,SIGNAL,"Signal generated (fibonacci, long) — entry 592.34, stop 557.19."
